@@ -1,0 +1,13 @@
+# Compiled binaries
+bin/
+*.exe
+*.o
+*.obj
+
+# IDE settings
+.vscode/
+.idea/
+
+# OS files
+Thumbs.db
+desktop.ini
